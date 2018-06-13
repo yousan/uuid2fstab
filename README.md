@@ -1,6 +1,6 @@
 # UUID2fstab
 Convert `blkid` output into fstab format with UUID.
-Now you do not have to copy and open Vim or Emacs to edit fstab.
+Now you do not have to copy and open Vim or Emacs for editing fstab.
 
 # Usage
 
